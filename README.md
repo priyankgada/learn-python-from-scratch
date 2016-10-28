@@ -22,6 +22,7 @@ More Stuff is coming
 
 1. Learn Python - Introduction to course - https://www.youtube.com/watch?v=HqsgtuhU4Ak
 2. Learn Python - Introduction To Python - https://www.youtube.com/watch?v=8mPOJbNy_LI
+3. Learn Python - Comments - https://www.youtube.com/watch?v=UIqDvqW-WN4
 
 # Download Links
 
@@ -32,3 +33,4 @@ More Stuff is coming
 # Project Files
 
 1. Hello World - https://goo.gl/VoEt6d
+2. Comments - https://goo.gl/h1xnJX
