@@ -23,6 +23,7 @@ More Stuff is coming
 1. Learn Python - Introduction to course - https://www.youtube.com/watch?v=HqsgtuhU4Ak
 2. Learn Python - Introduction To Python - https://www.youtube.com/watch?v=8mPOJbNy_LI
 3. Learn Python - Comments - https://www.youtube.com/watch?v=UIqDvqW-WN4
+4. Learn Python - Liclipse - https://www.youtube.com/watch?v=8OJnVbJFdx4
 
 # Download Links
 
