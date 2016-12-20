@@ -20,6 +20,7 @@ More Stuff is coming
 2. Learn Python - Introduction To Python - https://www.youtube.com/watch?v=8mPOJbNy_LI
 3. Learn Python - Comments - https://www.youtube.com/watch?v=UIqDvqW-WN4
 4. Learn Python - Liclipse - https://www.youtube.com/watch?v=8OJnVbJFdx4
+5. Learn Python - Variables - https://www.youtube.com/watch?v=o1R_aVwI3Vo
 
 # Download Links
 
@@ -29,5 +30,6 @@ More Stuff is coming
 
 # Project Files
 
-1. Hello World - https://goo.gl/VoEt6d
-2. Comments - https://goo.gl/h1xnJX
+1. Hello World - https://goo.gl/nWOF3P
+2. Comments - https://goo.gl/nWOF3P
+3. Variables - https://goo.gl/nqfruK
