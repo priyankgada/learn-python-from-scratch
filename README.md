@@ -21,6 +21,7 @@ More Stuff is coming
 3. Learn Python - Comments - https://www.youtube.com/watch?v=UIqDvqW-WN4
 4. Learn Python - Liclipse - https://www.youtube.com/watch?v=8OJnVbJFdx4
 5. Learn Python - Variables - https://www.youtube.com/watch?v=o1R_aVwI3Vo
+6. Learn Python - Reserved keyword - 
 
 # Download Links
 
@@ -33,3 +34,4 @@ More Stuff is coming
 1. Hello World - https://goo.gl/nWOF3P
 2. Comments - https://goo.gl/nWOF3P
 3. Variables - https://goo.gl/nqfruK
+4. Reserved Keywords - https://goo.gl/YSke90
