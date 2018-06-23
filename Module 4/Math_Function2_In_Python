@@ -1,0 +1,11 @@
+#!/usr/bin/python
+#www.youtube.com/priyankgada
+
+import math
+
+print math.fabs(-355) #absolute value of x - F stands for float
+print math.floor(-100.12) #smallest value 
+print math.log(100) #log of x 
+print max(12,14,15,16,17,19) #gives maximum value .
+print min(122,1,0,-1,22,-393) #gives minimum value 
+print math.sqrt(625) #gives square root 
