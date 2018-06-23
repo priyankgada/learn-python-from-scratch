@@ -1,0 +1,14 @@
+#!/usr/bin/python
+#www.priyankgada.com
+#www.youtube.com/priyankgada
+
+
+import math
+
+print abs(-545) #positive difference from zero
+print math.ceil(200.12) #smallest or nearest value  but not less than xrange
+print cmp(10,9) #x<y=-1 x=y then 0 x>y = 1
+print cmp(1,1)
+print math.exp(math.pi) #function inside Function
+print math.exp(-60) #expotential value
+print math.pi #prints pi value
