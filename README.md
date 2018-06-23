@@ -70,6 +70,6 @@ More Stuff is coming
 19. Math Functions 2 in Python - https://goo.gl/LpAvrJ
 
 
-#Challenges
+# Challenges
 
 1. Challenge 1 - https://goo.gl/T6NBgr
